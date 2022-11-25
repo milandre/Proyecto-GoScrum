@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Proyecto-GoScrum/static/css/main.f637dde3.css",
+    "main.js": "/Proyecto-GoScrum/static/js/main.cdcbac55.js",
+    "static/js/799.3c232eec.chunk.js": "/Proyecto-GoScrum/static/js/799.3c232eec.chunk.js",
+    "index.html": "/Proyecto-GoScrum/index.html",
+    "main.f637dde3.css.map": "/Proyecto-GoScrum/static/css/main.f637dde3.css.map",
+    "main.cdcbac55.js.map": "/Proyecto-GoScrum/static/js/main.cdcbac55.js.map",
+    "799.3c232eec.chunk.js.map": "/Proyecto-GoScrum/static/js/799.3c232eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f637dde3.css",
+    "static/js/main.cdcbac55.js"
+  ]
+}
